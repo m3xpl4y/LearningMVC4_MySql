@@ -12,5 +12,6 @@ namespace LearningMVC4_MySql.Data
             : base(options)
         {
         }
+        //Add Here DbSets Models
     }
 }
